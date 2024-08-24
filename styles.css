@@ -1,3 +1,20 @@
-a {
-  target: _blank;
+*{
+  text-align: center;
+  background: black;
+  color: white;
+ } 
+
+#title {
+ text-align: center;
+  background: black;
+  color: red;
 }
+
+#image {
+  max-width: 100%;
+  max-height: auto;
+  display: block;
+}
+
+
+
